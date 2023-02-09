@@ -1,0 +1,46 @@
+.flex-between{
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex{
+    display: flex;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header{
+    position: fixed;
+    width: 85%;
+    background: #f3efef;
+    z-index: 99;
+}
+
+.homeProfile{
+    border: 1px solid #dacdcd;
+    padding: 2rem;
+    border-right: none;
+    background-color: white;
+}
+
+.profileContent{
+    background: #c1f1f1;
+    padding: 3rem;
+}
+
+.btnAsk{
+    background: #938d8d;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    
+}
