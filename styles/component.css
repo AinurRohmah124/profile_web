@@ -15,7 +15,7 @@
 
 .header{
     position: fixed;
-    width: 85%;
+    width: 100%;
     background: #f3efef;
     z-index: 99;
 }
